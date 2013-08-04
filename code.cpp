@@ -149,7 +149,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	Complete("in.txt");
 
-	printf("Ö´ÐÐÍê³É\n");
+	printf("You are beautiful\n");
 
 	return 0;
 }
